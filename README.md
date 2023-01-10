@@ -10,10 +10,8 @@ Intern, Founder.
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/ganbot)](https://github.com/advpropsys/ganbot)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/DLS)](https://github.com/advpropsys/DLS)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://advpropsys.github.io)](https://advpropsys.github.io)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://t.me/imeetu_bot)]
+![web-visual-bookmark@2x](https://user-images.githubusercontent.com/113827076/211634611-79c573b0-b393-43c8-a6c2-4d52cd4c9d36.png)
+![web-visual-bookmark@2x-2](https://user-images.githubusercontent.com/113827076/211634741-0371ad0c-c3f3-4c2a-b9c2-46c61c0787be.png)
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 ### Languages:

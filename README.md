@@ -6,7 +6,8 @@
 
 ### I 💛 Data Science  & ML!
 
-### **Bio:** Intern, Founder. Love eating out and solving complex problems. ☕️
+### **Bio:** 
+Intern, Founder. Love eating out and solving complex problems. ☕️
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 

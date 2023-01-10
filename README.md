@@ -18,5 +18,5 @@ Intern, Founder.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![advpropsys's github stats](https://github-readme-stats.vercel.app/api?username=advpropsys&show_icons=true&theme=tokyonight)
+![advpropsys's github stats](https://github-readme-stats.vercel.app/api?username=advpropsys&show_icons=true&theme=synthwave)
 

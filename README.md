@@ -12,8 +12,13 @@ Intern, Founder.
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/ganbot/&mode=light&style=horizontal)](https://github.com/advpropsys/ganbot)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/DLS/&mode=dark&style=horizontal)](https://github.com/advpropsys/DLS)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://advpropsys.github.io/&mode=light&style=horizontal)](https://advpropsys.github.io)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://t.me/imeetu_bot/&mode=dark&style=horizontal)](https://wemeet-13d49.web.app)
+https://advpropsys.github.io
+
+``` Python
+import myportfolio
+myportfolio() -> https://advpropsys.github.io
+```
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 ### Languages:

@@ -11,9 +11,9 @@ Intern, Founder.
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/ganbot/&mode=light&style=horizontal)](https://github.com/advpropsys/ganbot)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/DLS)](https://github.com/advpropsys/DLS)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://advpropsys.github.io)](https://advpropsys.github.io)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://t.me/imeetu_bot)]
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/advpropsys/DLS/&mode=dark&style=horizontal)](https://github.com/advpropsys/DLS)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://advpropsys.github.io/&mode=light&style=horizontal)](https://advpropsys.github.io)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://t.me/imeetu_bot/&mode=dark&style=horizontal))](https://wemeet-13d49.web.app)
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 ### Languages:

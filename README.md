@@ -8,6 +8,6 @@
 
 [![The 142 TFLOP/s Gap](https://img.shields.io/badge/Substack-Read%20Article-orange?logo=substack)](https://advprop.substack.com/p/the-142-tflops-gap-why-fp4-moe-kernel)
 
-[![Tweet](./images/tweet_view.png)](https://x.com/advpropx/status/2007482364574998924?s=20)
+[![Tweet](./twitter_view.png)](https://x.com/advpropx/status/2007482364574998924?s=20)
 
 
